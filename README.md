@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Livia-Arr
+- 👋 Hi, I’m @Icaro-Arrue
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning: javascript
 - 💞️ I’m looking to collaborate on:
