@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @liviaarrue
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning: javascript
-- 💞️ I’m looking to collaborate on:
+- 👀 I’m interested in projects and job opportunities
+- 🌱 I’m currently learning: JS
 - 📫 How to reach me: liviapereira0516@gmail.com
 
 <!---
